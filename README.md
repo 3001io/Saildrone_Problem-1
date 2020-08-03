@@ -1,4 +1,4 @@
-# Saildrone_Problem-1
+# Saildrone Problem-1 
 Proposed solutions to Saildrone Problem 1: multi-wan networking for secure remote telemetry data transfer
 
 Background
@@ -15,4 +15,5 @@ Over time we augmented the system including
 - A chron job to upload the track logs and any completed data acquisition files. The data was stored to a Subversion SVN synchronized file directory and the cron job committed file changes and directory additions to the SVN repository.
 - A Verizon Novatel 4G LTE Broadband Router with Voice connected to the OpenWRT router to provide more reliable 4G internet service
 - VNC, RDP and XMPP messaging to the data acquisition computer 
+
 
