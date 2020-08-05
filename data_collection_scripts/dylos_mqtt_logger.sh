@@ -27,7 +27,7 @@ if [ ! -h /tmp/dylos.data.latest ]; then
 fi;
 
 if [ ! -h /tmp/mqtt.payload ]; then
-     touch /tmp/mqtt.payload ];
+     touch /tmp/mqtt.payload ;
 fi;
 
 # This subroutine blanks the previous dylos.data log files, then
